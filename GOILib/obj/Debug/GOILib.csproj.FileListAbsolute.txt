@@ -1,0 +1,5 @@
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib\bin\Debug\GOILib.dll
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib\bin\Debug\GOILib.pdb
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib\obj\Debug\ResolveAssemblyReference.cache
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib\obj\Debug\GOILib.dll
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib\obj\Debug\GOILib.pdb
