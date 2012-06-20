@@ -1,0 +1,10 @@
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\GOILib.Tests.dll
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\GOILib.Tests.pdb
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\GOILib.dll
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\Moq.dll
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\GOILib.pdb
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\Moq.pdb
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\bin\Debug\Moq.xml
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\obj\Debug\ResolveAssemblyReference.cache
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\obj\Debug\GOILib.Tests.dll
+d:\experiments\GameOfDeath\ConsoleApp1\GOILib.Tests\obj\Debug\GOILib.Tests.pdb
